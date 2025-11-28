@@ -1,0 +1,2 @@
+// Custom interactions can be added here
+console.log("Marjen Laser Craft website loaded.");

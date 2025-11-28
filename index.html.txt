@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Marjen Laser Craft – Awards & Medals</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header>
+        <h1>Marjen Laser Craft</h1>
+        <p class="subtitle">Premium Acrylic Awards & Laser-Engraved Medals</p>
+    </header>
+
+    <section class="hero">
+        <img src="medals.png" alt="Laser Engraved Medals" class="hero-img" />
+        <img src="trophies.png" alt="Acrylic Trophies" class="hero-img" />
+    </section>
+
+    <section class="products">
+        <h2>Our Premium Collection</h2>
+
+        <div class="grid">
+            <div class="card">
+                <img src="medals.png" alt="Medals" />
+                <h3>Metallic Engraved Medals</h3>
+                <p>High-detail silver & gold laser-engraved acrylic medals.</p>
+            </div>
+
+            <div class="card">
+                <img src="trophies.png" alt="Trophies" />
+                <h3>Acrylic Awards</h3>
+                <p>Crystal-clear acrylic trophies with precision laser engraving.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 Marjen Laser Craft — All Rights Reserved</p>
+    </footer>
+</body>
+</html>
